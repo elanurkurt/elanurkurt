@@ -1,12 +1,13 @@
 ### Hi everybody 💻
 
 #### I'm Elanur 
+
+I'm Junior Developer.👨‍💻 
+
 💬  I graduated from the Department of Electrical and Electronics Engineering in October 2023. During my
 academic years, I took part in various projects and internships to reinforce and improve what I learned. I
 continue to constantly improve my knowledge. 
-And I'm Junior Developer.👨‍💻 
 <br/> <br/>
-
  <details>
  <summary> 🌟 GitHub Stats 🌟 </summary>
  
