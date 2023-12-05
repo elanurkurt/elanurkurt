@@ -3,7 +3,8 @@
 #### I'm Elanur 
 💬  I graduated from the Department of Electrical and Electronics Engineering in October 2023. During my
 academic years, I took part in various projects and internships to reinforce and improve what I learned. I
-continue to constantly improve my knowledge. And I'm Junior Developer. I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other. 👨‍💻 
+continue to constantly improve my knowledge. 
+And I'm Junior Developer.👨‍💻 
 <br/> <br/>
 
  <details>
